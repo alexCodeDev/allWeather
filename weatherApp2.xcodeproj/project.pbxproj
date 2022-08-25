@@ -13,6 +13,7 @@
 		1F6D4C7928A38D2D0094DE5E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F6D4C7828A38D2D0094DE5E /* Preview Assets.xcassets */; };
 		1F6D4C7B28A38D2D0094DE5E /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F6D4C7A28A38D2D0094DE5E /* Persistence.swift */; };
 		1F6D4C7E28A38D2D0094DE5E /* weatherApp2.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1F6D4C7C28A38D2D0094DE5E /* weatherApp2.xcdatamodeld */; };
+		1FC31F9028AA44FB00302BD6 /* WeatherButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FC31F8F28AA44FB00302BD6 /* WeatherButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		1F6D4C7828A38D2D0094DE5E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1F6D4C7A28A38D2D0094DE5E /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		1F6D4C7D28A38D2D0094DE5E /* weatherApp2.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = weatherApp2.xcdatamodel; sourceTree = "<group>"; };
+		1FC31F8F28AA44FB00302BD6 /* WeatherButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			children = (
 				1F6D4C7128A38D2C0094DE5E /* weatherApp2App.swift */,
 				1F6D4C7328A38D2C0094DE5E /* ContentView.swift */,
+				1FC31F8F28AA44FB00302BD6 /* WeatherButton.swift */,
 				1F6D4C7528A38D2D0094DE5E /* Assets.xcassets */,
 				1F6D4C7A28A38D2D0094DE5E /* Persistence.swift */,
 				1F6D4C7C28A38D2D0094DE5E /* weatherApp2.xcdatamodeld */,
@@ -147,6 +150,7 @@
 				1F6D4C7428A38D2C0094DE5E /* ContentView.swift in Sources */,
 				1F6D4C7228A38D2C0094DE5E /* weatherApp2App.swift in Sources */,
 				1F6D4C7E28A38D2D0094DE5E /* weatherApp2.xcdatamodeld in Sources */,
+				1FC31F9028AA44FB00302BD6 /* WeatherButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

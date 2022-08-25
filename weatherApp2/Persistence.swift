@@ -46,7 +46,7 @@ struct PersistenceController {
                  * The persistent store is not accessible, due to permissions or data protection when the device is locked.
                  * The device is out of space.
                  * The store could not be migrated to the current model version.
-                 Check the error message to determine what the actual problem was.
+                 Check the error message to determine what the   problem was.
                  */
                 fatalError("Unresolved error \(error), \(error.userInfo)")
             }
